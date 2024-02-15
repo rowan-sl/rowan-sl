@@ -17,4 +17,4 @@ my mxid is `@mtnash:matrix.fawkes.io`
 ###### Project status
 <sup><sub>Most repos under this account are not maintained (due me loosing intrest)<br>if you have some changes or updates you want to see, please, write an issue!<br>Also, I'm still in high school, so my time to work on projects is limited</sub></sup>
 
-## Activity Log: many of my projects are *only* on my [git server](https://git.fawkes.io/mtnash) - look there for accurate (recent) activity
+## Activity Log: many of my projects are *only* on my [git server](https://git.fawkes.io/mtnash) - look there for accurate (recent) activity (though that does not show private contributions)
