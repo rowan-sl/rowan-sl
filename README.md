@@ -5,16 +5,12 @@ I'm Rowan, also known as [mtnash](https://en.wikipedia.org/wiki/Mountain-ash). I
 #### I have a website
 [check it out!](https://fawkes.io)
 
-#### I'm on matrix
-my mxid is `@mtnash:matrix.fawkes.io`
-
 #### Microsoft sucks
 ... and they own github, so you can find more of my projects on my [git server](https://git.fawkes.io/mtnash) (some may have mirrors here, some may not)
 
-#### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowan-sl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# *All* of my (current) projects are *only* on my [git server](https://git.fawkes.io/mtnash) - look there for accurate (recent) activity (though that does not show private contributions)
+This is with the exception of a few projects that have mirror repositories on github.
 
-###### Project status
-<sup><sub>Most repos under this account are not maintained (due me loosing intrest)<br>if you have some changes or updates you want to see, please, write an issue!<br>Also, I'm still in high school, so my time to work on projects is limited</sub></sup>
+This is why my github activity log is empty
 
-## Activity Log: many of my projects are *only* on my [git server](https://git.fawkes.io/mtnash) - look there for accurate (recent) activity (though that does not show private contributions)
+If you want to contribute to, or file an issue on, a project without a github mirror, [contact](https://fawkes.io/pages/contact) me, I don't bite!<br><sup><sub>Unless you want to talk to me about crypto or AI. Don't do that.</sub></sup>
